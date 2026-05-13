@@ -10,7 +10,7 @@ PCB:
 作成者:
 
 
-使用素子:
+使用素子:  
 USB_B_Female(メス)
 
 XA_1×02_Vertical(縦向き実装)
