@@ -6,7 +6,9 @@
 <img width="1090" height="564" alt="image" src="https://github.com/user-attachments/assets/c81f3e1b-3de8-4295-8def-c81b1e21e1ef" />
 
 
-PCB:
+PCB:  
+<img width="987" height="742" alt="image" src="https://github.com/user-attachments/assets/bdd8be02-b35b-4d54-b3e3-eecfc05450c9" />
+
 
 
 作成者:  
