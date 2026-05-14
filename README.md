@@ -2,7 +2,9 @@
 名前:
 5V発生器
 
-回路図:
+回路図:  
+<img width="1090" height="564" alt="image" src="https://github.com/user-attachments/assets/c81f3e1b-3de8-4295-8def-c81b1e21e1ef" />
+
 
 PCB:
 
@@ -24,11 +26,11 @@ Capacitor(コンデンサ)_定格電圧10V
 CNCフライス使用刃物:  
 B_Cu:土左まさのり  
 
-Edge_Cuts:エンドミル mm  
+Edge_Cuts:エンドミル0.8mm  
 
 Drill:土佐まさのり  
 
-(Mill):エンドミル mm  
+(Mill):エンドミル0.8mm  
 
 注意:  
 ・ドリルとドリルミルはどちらか一方のみにして  
