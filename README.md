@@ -1,6 +1,9 @@
 # 5V-Generator
 名前:
 5V発生器
+作成者:  
+Burglar  
+
 
 回路図:  
 <img width="1090" height="564" alt="image" src="https://github.com/user-attachments/assets/c81f3e1b-3de8-4295-8def-c81b1e21e1ef" />
@@ -11,8 +14,6 @@ PCB:
 
 
 
-作成者:  
-Burglar  
 
 使用素子:  
 USB_B_Female(メス)  
