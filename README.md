@@ -1,6 +1,6 @@
 # 5V-Generator
 名前:
-5V発生器
+5V発生器  
 作成者:  
 Burglar  
 
