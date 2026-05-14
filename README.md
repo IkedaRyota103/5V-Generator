@@ -18,14 +18,14 @@ PCB:
 
 使用素子:  
 USB_B_Female(メス)  
-
-XA_1×02_Vertical(縦向き実装)
-
-COM(C接点)Switch
-
-Capacitor(コンデンサ)_定格電圧10V
-
-注意:これは正式名称ではありません。
+<img width="2149" height="1612" alt="image" src="https://github.com/user-attachments/assets/ce25c795-6cd1-49ae-bc04-7f5d080ba5c1" />  
+XA_1×02_Vertical(縦向き実装)  
+<img width="1743" height="1274" alt="S__56508424" src="https://github.com/user-attachments/assets/df343201-30ac-4bfc-ba5b-4a0274d6cfb3" />  
+COM(C接点)Switch  
+<img width="1774" height="2364" alt="image" src="https://github.com/user-attachments/assets/aac78831-8cc2-4ee3-ad18-f1d4643ec1d1" />  
+Capacitor(コンデンサ)_定格電圧10V  
+<img width="1033" height="807" alt="S__56508423" src="https://github.com/user-attachments/assets/b2a8eda9-86ff-443f-a98e-28fa620d261e" />  
+注意:これらは正式名称ではありません。
 
 CNCフライス使用刃物:  
 B_Cu:土左まさのり  
